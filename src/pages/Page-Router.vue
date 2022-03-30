@@ -3,7 +3,7 @@
     <div class="absolute-center q-pa-md">
       <!-- Card 1 Div -->
 
-      <div class="q-pa-md  q-py-md row flex flex-center items-start q-gutter-md">
+      <div class="q-pa-md q-py-md row flex flex-center items-start q-gutter-md">
         <q-card
           class="my-card this-card flex flex-center text-black bg-white"
           style="max-width: 750px"
@@ -15,7 +15,8 @@
                   <q-btn
                     to="Create-Account-Step1"
                     label="Create-Account-Step1"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -23,7 +24,8 @@
                   <q-btn
                     to="Create-Account-Step2"
                     label="Create-Account-Step2"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -31,7 +33,8 @@
                   <q-btn
                     to="Create-Account-Step2-1"
                     label="Create-Account-Step2-1"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -39,7 +42,8 @@
                   <q-btn
                     to="Create-Account-Step3"
                     label="Create-Account-Step3"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -47,7 +51,8 @@
                   <q-btn
                     to="Contractor-profile-display"
                     label="Contractor-profile-display"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -55,7 +60,8 @@
                   <q-btn
                     to="Create-Contractor-Profile"
                     label="Create-Contractor-Profile"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -63,7 +69,8 @@
                   <q-btn
                     to="Create-Contractor-freelancer-profile"
                     label="Create-Contractor-freelancer-profile"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -71,7 +78,8 @@
                   <q-btn
                     to="Create-Client-Profile"
                     label="Create-Client-Profile"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -79,7 +87,8 @@
                   <q-btn
                     to="Create-Client-Company-Profile"
                     label="Create-Client-Company-Profile"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -87,7 +96,8 @@
                   <q-btn
                     to="Client-Company-Profile-Doc-Verification"
                     label="Client-Company-Profile-Doc-Verification"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -95,7 +105,8 @@
                   <q-btn
                     to="Client-Profile-Doc-Verification"
                     label="Client-Profile-Doc-Verification"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -103,7 +114,8 @@
                   <q-btn
                     to="Client-Profile-Display"
                     label="Client-Profile-Display"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -111,7 +123,8 @@
                   <q-btn
                     to="Contractor-freelancer-profile-display"
                     label="Contractor-freelancer-profile-display"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -119,7 +132,8 @@
                   <q-btn
                     to="Client-Company-Profile-Display"
                     label="Client-Company-Profile-Display"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -127,7 +141,71 @@
                   <q-btn
                     to="Create--Contractor-Company-Profile-Add-Freelancers"
                     label="Create--Contractor-Company-Profile-Add-Freelancers"
-                    outline style="color: goldenrod;"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="01-remote-work-Client-Post-Proj"
+                    label="01-remote-work-Client-Post-Proj"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="02-remote-work-Client-Post-Proj"
+                    label="02-remote-work-Client-Post-Proj"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="03-remote-work-Client-Post-Proj"
+                    label="03-remote-work-Client-Post-Proj"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="04-remote-work-Client-Post-Proj"
+                    label="04-remote-work-Client-Post-Proj"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="05-remote-work-Client-Post-Proj"
+                    label="05-remote-work-Client-Post-Proj"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="16-remote-work-Client-Milestone-Details-for-Agency"
+                    label="16-remote-work-Client-Milestone-Details-for-Agency"
+                    outline
+                    style="color: goldenrod"
+                  >
+                  </q-btn>
+                </div>
+                <div class="q-pa-md">
+                  <q-btn
+                    to="08-Remote-Work-Contractor-Application-To-Project-By-Freelancer"
+                    label="08-Remote-Work-Contractor-Application-To-Project-By-Freelancer"
+                    outline
+                    style="color: goldenrod"
                   >
                   </q-btn>
                 </div>
@@ -196,5 +274,4 @@ export default defineComponent({
 .this-card
   // background: rgba(255,0,0,.1)
   border-radius: 30px
-
 </style>
